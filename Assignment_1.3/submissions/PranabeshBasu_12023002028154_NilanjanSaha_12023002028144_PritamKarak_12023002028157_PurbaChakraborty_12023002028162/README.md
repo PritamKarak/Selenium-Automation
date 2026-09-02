@@ -59,7 +59,7 @@ This assignment focuses on locating web elements using standard Selenium WebDriv
 
 **Rahul Shetty Academy – Automation Practice**
 
-[https://rahulshettyacademy.com/AutomationPractice/](https://rahulshettyacademy.com/AutomationPractice/)
+https://rahulshettyacademy.com/AutomationPractice/
 
 ### Technologies Used
 
@@ -175,3 +175,4 @@ https://rahulshettyacademy.com/AutomationPractice/
 - Selenium `click()`
 
 # Demo:
+https://drive.google.com/drive/folders/16M-HYGTABzH6iExp5sYAtml8asAewDKS?usp=drive_link
