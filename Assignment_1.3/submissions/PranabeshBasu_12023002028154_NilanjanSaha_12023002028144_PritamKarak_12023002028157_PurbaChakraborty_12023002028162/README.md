@@ -42,6 +42,41 @@
     <td>CSE(AI & ML)</td>
   </tr>
 </table>
+## Assignment 1: Web Element Identification
+
+### Objective
+
+To understand and implement fundamental Selenium locators to efficiently identify and interact with different types of web elements on a webpage.
+
+### Description
+
+This assignment focuses on locating web elements using standard Selenium WebDriver locators in Python. The solution demonstrates how to interact with various UI components on the given practice website, including finding a text box by ID, a checkbox by Name, a radio button by Class Name, a static dropdown by Tag Name, and a hyperlink using Link Text and Partial Link Text.
+
+### Website
+
+**Rahul Shetty Academy – Automation Practice**
+
+[https://rahulshettyacademy.com/AutomationPractice/](https://rahulshettyacademy.com/AutomationPractice/)
+
+### Technologies Used
+
+- Python
+- Selenium WebDriver
+- Google Chrome (or preferred browser)
+- Basic DOM Locators
+
+### Key Concepts
+
+- Web Element Locators
+- `By.ID` — Locating highly unique elements
+- `By.NAME` — Locating form data elements
+- `By.CLASS_NAME` — Locating elements by styling class
+- `By.TAG_NAME` — Locating elements by HTML structure (e.g., `<select>`)
+- `By.LINK_TEXT` & `By.PARTIAL_LINK_TEXT` — Locating anchor tags by visible text
+- The Selenium `Select` Class (for static dropdown menus)
+- Element Interactions (`.click()`, `.send_keys()`)
+- `find_element()`
+- Browser Automation
 
 ## Assignment 3: CSS Selector Challenge
 
