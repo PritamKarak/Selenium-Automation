@@ -81,6 +81,42 @@ This assignment focuses on locating web elements using standard Selenium WebDriv
 - `find_element()`
 - Browser Automation
 
+## Assignment 2: Multiple Element Identification Challenge
+
+### Objective
+
+To identify multiple elements of the same type on a webpage and use Selenium to find and work with the list of elements.
+
+### Description
+
+This assignment focuses on locating and interacting with collections of web elements using Selenium WebDriver in Python. The solution demonstrates how to retrieve multiple matching elements—such as checkboxes and radio buttons—using find_elements(), iterate through the resulting list, extract element attributes dynamically, and perform iterative actions like clicking and verifying the selection state.
+
+### Website
+
+Rahul Shetty Academy – Automation Practice
+https://rahulshettyacademy.com/AutomationPractice/
+
+### Technologies Used
+
+- Python
+- Selenium WebDriver
+- WebDriver Manager
+- Google Chrome
+- Mozilla Firefox
+- XPath
+- CSS Selectors
+
+## Key Concepts
+
+- find_elements() vs find_element()
+- List Iteration (For loops)
+- Element State Verification (is_selected())
+- Extracting Element Values (get_attribute())
+- XPath Attribute Selectors
+- CSS Attribute Selectors
+- Browser Automation
+- Checkbox and Radio Button Interaction
+
 ## Assignment 3: CSS Selector Challenge
 
 ###  Objective
