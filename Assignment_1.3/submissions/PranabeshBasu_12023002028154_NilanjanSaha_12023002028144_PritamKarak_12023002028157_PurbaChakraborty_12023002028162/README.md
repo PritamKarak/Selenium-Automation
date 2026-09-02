@@ -176,4 +176,4 @@ https://rahulshettyacademy.com/AutomationPractice/
 - Selenium `click()`
 
 # Demo:
-https://drive.google.com/drive/folders/16M-HYGTABzH6iExp5sYAtml8asAewDKS?usp=drive_link
+https://drive.google.com/drive/folders/16M-HYGTABzH6iExp5sYAtml8asAewDKS
