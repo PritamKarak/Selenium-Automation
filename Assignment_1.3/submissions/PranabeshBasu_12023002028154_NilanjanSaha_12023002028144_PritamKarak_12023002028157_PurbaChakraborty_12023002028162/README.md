@@ -127,10 +127,9 @@ To understand and implement **CSS wildcard selectors** in Selenium for locating 
 
 This assignment focuses on locating web elements using **CSS Selectors in Selenium with Python**, including wildcard selectors for elements with fixed and dynamic attribute values. The solution demonstrates `^=`, `*=`, and `$=` selectors using the radio buttons on the given website.
 
-###  Website
+### Website
 
-**Rahul Shetty Academy – Automation Practice**
-
+Rahul Shetty Academy – Automation Practice
 https://rahulshettyacademy.com/AutomationPractice/
 
 ###  Technologies Used
