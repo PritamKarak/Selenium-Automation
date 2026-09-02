@@ -33,6 +33,43 @@
   </tr>
 </table>
 
+## Assignment 3: CSS Selector Challenge
+
+### 🎯 Objective
+
+To understand and implement **CSS wildcard selectors** in Selenium for locating web elements efficiently, especially when some parts of an element's attributes may change dynamically.
+
+### 📌 Description
+
+This assignment focuses on locating web elements using **CSS Selectors in Selenium with Python**, including wildcard selectors for elements with fixed and dynamic attribute values. The solution demonstrates `^=`, `*=`, and `$=` selectors using the radio buttons on the given website.
+
+### 🌐 Website
+
+**Rahul Shetty Academy – Automation Practice**
+
+https://rahulshettyacademy.com/AutomationPractice/
+
+### 🛠️ Technologies Used
+
+- Python
+- Selenium WebDriver
+- WebDriver Manager
+- Google Chrome
+- Mozilla Firefox
+- CSS Selectors
+
+### 🔑 Key Concepts
+
+- CSS Attribute Selectors
+- `^=` — Starts With
+- `*=` — Contains
+- `$=` — Ends With
+- Dynamic Attribute Handling
+- `find_element()`
+- `find_elements()`
+- Browser Automation
+- Selenium WebDriver
+
 ## Assignment 4: Child Nodes Using CSS
 
 ### Objective
