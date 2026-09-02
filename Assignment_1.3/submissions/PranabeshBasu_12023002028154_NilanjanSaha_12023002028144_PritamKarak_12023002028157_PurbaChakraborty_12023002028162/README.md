@@ -42,6 +42,9 @@
     <td>CSE(AI & ML)</td>
   </tr>
 </table>
+
+# Description:
+
 ## Assignment 1: Web Element Identification
 
 ### Objective
@@ -134,3 +137,5 @@ https://rahulshettyacademy.com/AutomationPractice/
 - Nested Web Element Identification
 - Selenium `find_element()`
 - Selenium `click()`
+
+# Demo:
