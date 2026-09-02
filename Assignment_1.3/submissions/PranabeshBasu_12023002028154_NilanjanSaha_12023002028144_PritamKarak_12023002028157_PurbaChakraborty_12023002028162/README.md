@@ -93,7 +93,8 @@ This assignment focuses on locating and interacting with collections of web elem
 
 ### Website
 
-Rahul Shetty Academy – Automation Practice
+**Rahul Shetty Academy – Automation Practice**
+
 https://rahulshettyacademy.com/AutomationPractice/
 
 ### Technologies Used
@@ -129,7 +130,8 @@ This assignment focuses on locating web elements using **CSS Selectors in Seleni
 
 ### Website
 
-Rahul Shetty Academy – Automation Practice
+**Rahul Shetty Academy – Automation Practice**
+
 https://rahulshettyacademy.com/AutomationPractice/
 
 ###  Technologies Used
