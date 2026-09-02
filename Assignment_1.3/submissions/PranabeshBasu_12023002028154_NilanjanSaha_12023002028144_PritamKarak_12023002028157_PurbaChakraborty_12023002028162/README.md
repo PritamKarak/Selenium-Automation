@@ -6,50 +6,60 @@
     <th>Name</th>
     <th>Enrollment No.</th>
     <th>Section</th>
+    <th>Roll</th>
+    <th>Stream</th>
   </tr>
   <tr>
     <td>15</td>
     <td>Pranabesh Basu</td>
     <td>12023002028154</td>
     <td>C</td>
+    <td>19</td>
+    <td>CSE(AI & ML)</td>
   </tr>
   <tr>
     <td>15</td>
     <td>Nilanjan Saha</td>
     <td>12023002028144</td>
     <td>C</td>
+    <td>09</td>
+    <td>CSE(AI & ML)</td>
   </tr>
   <tr>
     <td>15</td>
     <td>Pritam Karak</td>
     <td>12023002028157</td>
     <td>C</td>
+    <td>22</td>
+    <td>CSE(AI & ML)</td>
   </tr>
   <tr>
     <td>15</td>
     <td>Purba Chakraborty</td>
     <td>12023002028162</td>
     <td>C</td>
+    <td>27</td>
+    <td>CSE(AI & ML)</td>
   </tr>
 </table>
 
 ## Assignment 3: CSS Selector Challenge
 
-### 🎯 Objective
+###  Objective
 
 To understand and implement **CSS wildcard selectors** in Selenium for locating web elements efficiently, especially when some parts of an element's attributes may change dynamically.
 
-### 📌 Description
+###  Description
 
 This assignment focuses on locating web elements using **CSS Selectors in Selenium with Python**, including wildcard selectors for elements with fixed and dynamic attribute values. The solution demonstrates `^=`, `*=`, and `$=` selectors using the radio buttons on the given website.
 
-### 🌐 Website
+###  Website
 
 **Rahul Shetty Academy – Automation Practice**
 
 https://rahulshettyacademy.com/AutomationPractice/
 
-### 🛠️ Technologies Used
+###  Technologies Used
 
 - Python
 - Selenium WebDriver
@@ -58,7 +68,7 @@ https://rahulshettyacademy.com/AutomationPractice/
 - Mozilla Firefox
 - CSS Selectors
 
-### 🔑 Key Concepts
+###  Key Concepts
 
 - CSS Attribute Selectors
 - `^=` — Starts With
