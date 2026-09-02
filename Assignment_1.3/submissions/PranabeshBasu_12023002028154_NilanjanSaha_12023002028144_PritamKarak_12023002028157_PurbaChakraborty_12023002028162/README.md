@@ -89,7 +89,7 @@ To identify multiple elements of the same type on a webpage and use Selenium to 
 
 ### Description
 
-This assignment focuses on locating and interacting with collections of web elements using Selenium WebDriver in Python. The solution demonstrates how to retrieve multiple matching elements—such as checkboxes and radio buttons—using find_elements(), iterate through the resulting list, extract element attributes dynamically, and perform iterative actions like clicking and verifying the selection state.
+This assignment focuses on locating and interacting with collections of web elements using Selenium WebDriver in Python. The solution demonstrates how to retrieve multiple matching elements such as checkboxes and radio buttons using find_elements(), iterate through the resulting list, extract element attributes dynamically, and perform iterative actions like clicking and verifying the selection state.
 
 ### Website
 
@@ -106,7 +106,7 @@ https://rahulshettyacademy.com/AutomationPractice/
 - XPath
 - CSS Selectors
 
-## Key Concepts
+### Key Concepts
 
 - find_elements() vs find_element()
 - List Iteration (For loops)
