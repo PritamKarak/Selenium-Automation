@@ -43,6 +43,9 @@
   </tr>
 </table>
 
+# Demo Video:
+https://drive.google.com/drive/folders/16M-HYGTABzH6iExp5sYAtml8asAewDKS
+
 # Description:
 
 ## Assignment 1: Web Element Identification
@@ -175,5 +178,3 @@ https://rahulshettyacademy.com/AutomationPractice/
 - Selenium `find_element()`
 - Selenium `click()`
 
-# Demo:
-https://drive.google.com/drive/folders/16M-HYGTABzH6iExp5sYAtml8asAewDKS
